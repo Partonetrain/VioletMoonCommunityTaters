@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"0": "quark:model/tiny_potato/traintater",
-		"particle": "quark:model/tiny_potato/traintater"
+		"0": "quark:model/tiny_potato/young_link",
+		"particle": "quark:model/tiny_potato/young_link"
 	},
 	"elements": [
 		{
