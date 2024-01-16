@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "quark:model/tiny_potato/template"
+		"all": "botania:model/tiny_potato/template"
 	},
 	"elements": [
 		{
