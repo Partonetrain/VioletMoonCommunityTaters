@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "botania:model/tiny_potato/train",
-		"particle": "botania:model/tiny_potato/train"
+		"0": "botania:block/tiny_potato/train",
+		"particle": "botania:block/tiny_potato/train"
 	},
 	"elements": [
 		{

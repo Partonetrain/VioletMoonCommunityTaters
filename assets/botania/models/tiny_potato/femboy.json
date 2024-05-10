@@ -1,6 +1,6 @@
 {
   "parent": "botania:tiny_potato/base",
   "textures": {
-    "all": "botania:model/tiny_potato/femboy"
+    "all": "botania:block/tiny_potato/femboy"
   }
 }

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"0": "botania:model/tiny_potato/young_link",
-		"particle": "botania:model/tiny_potato/young_link"
+		"0": "botania:block/tiny_potato/young_link",
+		"particle": "botania:block/tiny_potato/young_link"
 	},
 	"elements": [
 		{
